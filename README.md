@@ -4,7 +4,7 @@ SQL Queries? Check them out here: [project_sql folder](/project_sql/)
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills streamlining others work to find optimal jobs.
 
-Data hails from [SQL Course](/https://lukebarousse.com/sql/). It is packed with insights on job titles, salaries, locations and essential skills.
+Data hails from [datanerd.tech](https://www.datanerd.tech). It is packed with insights on job titles, salaries, locations and essential skills.
 ### The questions I wanted to answer through my SQL queries were:
 1. What are the top-paying data analyst jobs?
 2. What skillls are required for these top paying jobs?
@@ -48,8 +48,7 @@ Here is the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like SmartAsset, Meta, AT&T are among those offering high salaries showing a broad interest across different industries.
 - **Job Title Variety:** There is a high diversity in job titles from Data Analyst to Director of Analytics, reflecting varied roles and specializatins within data analytics.
 
-![Top Paying Roles](Assets\1_Top_Paying_Roles.png)
-
+![Top Paying Roles](Assets/1_Top_Paying_Roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts*
 
 ### 2. Skills for Top Paying Jobs
@@ -87,8 +86,7 @@ Here is the breakdown of the most demanded skills for the top 10 highest paying 
 - **Python** follows closely with a bold count of 7.
 - **Tableau** is also highly sought after, witha bold count of 6. Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degress of demand.
 
-![Top Paying Skills](Assets\2_Top_Paying_Job_Skills.png)
-
+![Top Paying Skills](Assets/2_Top_Paying_Job_Skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts.*
 
 ### 3. In-Demand Skills for Data Analysts.
